@@ -23,7 +23,7 @@ Libraries: None (pure Python, no external dependencies)
 
 Clone the repository:
 
-git clone https://github.com/your-username/stock-portfolio-tracker.git
+git clone https://github.com/Lakshmikala43/CodeAlpha_StockPortifolioTracker/blob/main/track.py
 cd stock-portfolio-tracker
 
 
